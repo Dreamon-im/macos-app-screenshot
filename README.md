@@ -36,7 +36,7 @@ npx skills add Dreamon-im/macos-app-screenshot
 ```
 
 **OpenAI Codex / ChatGPT plugin:** add
-[Dreamon-im/macos-app-screenshot-plugin](https://github.com/Dreamon-im/macos-app-screenshot-plugin)
+[Dreamon-im/ai-agent-plugin](https://github.com/Dreamon-im/ai-agent-plugin)
 as a plugin marketplace and install *macos-app-screenshot* from the Plugins
 Directory.
 
