@@ -32,11 +32,11 @@ Safari and convert it to WebP"*. The skill teaches the agent:
 **npx (auto-detects Claude Code, Codex, Cursor, and 20+ agents):**
 
 ```bash
-npx skills add airbob/macos-app-screenshot
+npx skills add Dreamon-im/macos-app-screenshot
 ```
 
 **OpenAI Codex / ChatGPT plugin:** add
-[airbob/macos-app-screenshot-plugin](https://github.com/airbob/macos-app-screenshot-plugin)
+[Dreamon-im/macos-app-screenshot-plugin](https://github.com/Dreamon-im/macos-app-screenshot-plugin)
 as a plugin marketplace and install *macos-app-screenshot* from the Plugins
 Directory.
 
@@ -44,7 +44,7 @@ Directory.
 that agent's skills directory:
 
 ```bash
-git clone https://github.com/airbob/macos-app-screenshot
+git clone https://github.com/Dreamon-im/macos-app-screenshot
 mkdir -p ~/.claude/skills   # or ~/.codex/skills, ~/.agents/skills, …
 ln -s "$PWD/macos-app-screenshot" ~/.claude/skills/macos-app-screenshot
 ```
