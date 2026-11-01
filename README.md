@@ -35,6 +35,11 @@ Safari and convert it to WebP"*. The skill teaches the agent:
 npx skills add airbob/macos-app-screenshot
 ```
 
+**OpenAI Codex / ChatGPT plugin:** add
+[airbob/macos-app-screenshot-plugin](https://github.com/airbob/macos-app-screenshot-plugin)
+as a plugin marketplace and install *macos-app-screenshot* from the Plugins
+Directory.
+
 **Claude Code / Codex / any agent, by hand:** copy or symlink this folder into
 that agent's skills directory:
 
